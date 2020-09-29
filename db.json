@@ -1,12 +1,12 @@
 {
 
-  "posts": [
+  "phones": [
 
-    { "id": 1, "title": "Post 1" },
+    { "id": 1, "title": "iPhone 6","image":"https://everymac.com/images/ipod_pictures/apple-iphone-6-silver.jpg"  },
 
-    { "id": 2, "title": "Post 2" },
+    { "id": 2, "title": "iPhone 7", "image":"https://everymac.com/images/ipod_pictures/iphone-7-front-back-matteblack.jpg" },
 
-    { "id": 3, "title": "Post 3" }
+    { "id": 3, "title": "iPhone XS", "image":"https://everymac.com/images/ipod_pictures/iphone-xs-max.jpg" }
 
   ],
 
